@@ -22,12 +22,6 @@ public class Awele extends JFrame{
 		setVisible(true);
 	}
 	
-	public void demarrer() {
-		/*while(jeu.jouer()) {
-			System.out.println("\n" + jeu + "\n");
-		}*/
-	}
-	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Awele aw = new Awele();
